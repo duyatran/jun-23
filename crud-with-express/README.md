@@ -1,4 +1,4 @@
-# M03W06 - CRUD with Express
+# W03D02 - CRUD with Express
 ### To Do
 - [ ] CRUD with Express
 - [ ] Render data for the user using EJS templates
